@@ -27,3 +27,24 @@ JavaScript é uma linguagem de script interpretada, dinâmica e orientada a obje
 javascript
 
 console.log("Hello, World!");
+
+Diferenças entre Python, Java e JavaScript:
+
+Python:
+Python é uma linguagem de programação multiparadigma, o que significa que suporta programação orientada a objetos, programação imperativa e programação funcional.
+Python é conhecido por sua sintaxe limpa e legível, que facilita a escrita e a compreensão do código. O uso de indentação (espaçamento) é significativo em Python, o que ajuda a melhorar a legibilidade do código.
+É amplamente utilizado para desenvolvimento web, automação, análise de dados, aprendizado de máquina, inteligência artificial e várias outras áreas. 
+É uma linguagem interpretada, o que significa que o código-fonte é executado diretamente pelo interpretador, sem a necessidade de compilação prévia.
+
+Java:
+Java é uma linguagem de programação orientada a objetos, o que significa que o código é organizado em objetos que contêm dados e métodos para manipular esses dados. 
+Tem uma sintaxe mais formal e é fortemente tipada, o que significa que você precisa declarar o tipo de dados de uma variável antes de usá-la. A estrutura de controle é semelhante à de outras linguagens como C++ e C#.
+É amplamente utilizado para desenvolvimento de aplicativos empresariais, desenvolvimento Android, aplicativos de desktop, sistemas embarcados e muito mais.
+O código Java é compilado para bytecode, que é executado na Máquina Virtual Java (JVM). Isso proporciona portabilidade, pois o bytecode pode ser executado em qualquer sistema que tenha uma JVM.
+
+JavaScript:
+JavaScript é uma linguagem de programação orientada a objetos e baseada em protótipos. Ela também suporta programação assíncrona, o que é essencial para operações de entrada/saída não bloqueantes em aplicações web.
+A sintaxe do JavaScript é semelhante à de outras linguagens baseadas em C, mas também possui características únicas, como funções de primeira classe, closures e um sistema de eventos para manipulação assíncrona.
+JavaScript é a principal linguagem para desenvolvimento web. É usado para criar interatividade em páginas web, desenvolver aplicativos web de página única (SPA), criar extensões para navegadores, desenvolver aplicativos móveis usando frameworks como React Native, entre outros.
+JavaScript é interpretado nos navegadores, o que significa que o código-fonte é executado diretamente no navegador do usuário.
+
