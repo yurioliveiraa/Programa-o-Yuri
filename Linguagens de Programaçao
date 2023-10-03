@@ -1,0 +1,29 @@
+Python:
+Python é uma linguagem de programação interpretada, dinâmica e de alto nível. É conhecida por sua sintaxe limpa e fácil de entender, o que a torna uma escolha popular para iniciantes.
+
+Exemplo de código mínimo em Python:
+
+print("Hello, World!")
+
+Java:
+Java é uma linguagem de programação orientada a objetos, compilada e fortemente tipada. Ela é conhecida por sua portabilidade, o que significa que os programas Java podem ser executados em diferentes plataformas sem modificação.
+
+Exemplo de código mínimo em Java:
+
+java
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    
+javac HelloWorld.java
+
+
+java HelloWorld
+
+JavaScript:
+JavaScript é uma linguagem de script interpretada, dinâmica e orientada a objetos amplamente utilizada para desenvolvimento web. Ela é executada nos navegadores web e permite a interação dinâmica com o conteúdo das páginas web.
+
+javascript
+
+console.log("Hello, World!");
